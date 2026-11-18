@@ -86,9 +86,9 @@ footer{
     margin-top: 40px;
 }
 
-@media screen and (max-width:375px) {
+@media screen and (max-width:23.475rem) {
     body{
-        margin: 50px 30px;
+        margin: 3.125rem 1.875rem;
     }
     h1{
         font-size: 1.6rem;
